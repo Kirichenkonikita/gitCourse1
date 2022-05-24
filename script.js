@@ -1,3 +1,3 @@
 alert(`Привет!`);
 
-console.log(`test 22222`)
+console.log(`test 123123`)
